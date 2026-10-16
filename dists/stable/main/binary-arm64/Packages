@@ -1,13 +1,13 @@
 Package: o7k
-Version: 0.14.1
+Version: 0.14.2
 Architecture: arm64
 Maintainer: akyriako
 Installed-Size: 17152
-Filename: pool/main/o/o7k/o7k_0.14.1_linux_arm64.deb
-Size: 6226174
-MD5sum: 1dec1b824e128aa4517ab1ceb8f3e9de
-SHA1: d399207c2314b070db4bebb5d7c78fcd72dd78e7
-SHA256: 88c2ab5884c7487043cd0f33dd952005294f6d7e8faa0598b7c522250535355b
+Filename: pool/main/o/o7k/o7k_0.14.2_linux_arm64.deb
+Size: 6226242
+MD5sum: 25808b50caf1fe5a70091ac7f904a021
+SHA1: 383225e11b71b5d7a679e6e427a67e9ef8e14e4d
+SHA256: 7fae1ad7dd643d3138e79ab5eca10687ba65bddab53600b104e0e3a0cb980462
 Priority: optional
 Homepage: https://github.com/akyriako/o7k
 Description: Terminal UI for OpenStack
